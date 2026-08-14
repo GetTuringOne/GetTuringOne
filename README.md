@@ -6,248 +6,105 @@
 
 **Know what is covered. Understand what changed. Release with confidence.**
 
-**Requirements → Tests → Coverage → Change Impact → Release Readiness**
-
-[Website](https://www.getturingone.com/) · [TuringOne Community](https://github.com/GetTuringOne/turingone-ui-community)
+[![Website](https://img.shields.io/badge/Website-getturingone.com-black?style=for-the-badge)](https://www.getturingone.com/)
+[![Community](https://img.shields.io/badge/TuringOne-Community-2ea44f?style=for-the-badge&logo=github)](https://github.com/aabouda/turingone-ui-community)
+[![Self Hosted](https://img.shields.io/badge/Self--Hosted-Community-555?style=for-the-badge&logo=docker)](https://github.com/aabouda/turingone-ui-community)
 
 </div>
 
 ---
 
-## What is TuringOne?
+## 🚀 What is TuringOne?
 
-**TuringOne** is an AI-powered Quality Engineering platform designed to help software teams understand, improve and continuously evaluate the quality of their applications.
+TuringOne connects **requirements, tests and application changes** to give teams a clear view of:
 
-TuringOne connects information that is usually fragmented across different tools and teams:
+| 🧩 Coverage | 🔄 Change Impact | 🔗 Traceability | 🚦 Release Readiness |
+|---|---|---|---|
+| What is covered? | What changed? | What validates each requirement? | Can we release with confidence? |
 
-- Requirements
-- User Stories
-- Business Rules
-- Functional and technical documentation
-- Manual and automated tests
-- Automation frameworks
-- Test execution results
-- Application changes
+<div align="center">
 
-By creating a unified quality context, TuringOne helps teams understand:
+### Requirements → Tests → Coverage → Change Impact → Release Readiness
 
-- What requirements are covered
-- Where coverage gaps exist
-- What has changed
-- Which tests are impacted
-- Whether requirements can be traced to validation
-- Where quality risks are located
-- Whether a release is ready
-
-Our goal is simple:
-
-> **Turn fragmented quality information into actionable release intelligence.**
+</div>
 
 ---
 
-## Why TuringOne?
+## 🧠 How TuringOne Thinks
 
-Software quality information is often distributed across requirements, documentation, test management tools, source code, automation frameworks and execution reports.
-
-TuringOne brings this information together and uses AI to help teams:
-
-### Understand Coverage
-
-Identify which requirements, business rules and application areas are covered — and which are not.
-
-### Analyze Change Impact
-
-Understand how application or requirement changes can affect existing tests and quality coverage.
-
-### Improve Traceability
-
-Connect requirements, test scenarios, automation and execution results.
-
-### Identify Quality Gaps
-
-Detect missing tests, incomplete coverage and areas requiring additional validation.
-
-### Generate Test Assets
-
-Transform project context, requirements and documentation into structured and reusable test scenarios.
-
-### Support Release Decisions
-
-Provide teams with better visibility into quality risks before releasing software.
+| 📋 Understand | 🔌 Connect | 🤖 Analyze | ✅ Decide |
+|---|---|---|---|
+| Requirements | Test tools | Coverage gaps | Release confidence |
+| User Stories | Automation | Impact analysis | Quality risks |
+| Business Rules | Executions | Traceability | Next actions |
+| Documentation | Changes | Quality signals | Readiness |
 
 ---
 
-## TuringOne Community
+# 🌍 TuringOne Community
 
 ### Free Self-Hosted Community Edition
 
-**TuringOne Community** brings part of the TuringOne experience to the developer and QA community through a simplified self-hosted edition.
+Explore AI-powered Quality Engineering directly in your own environment.
 
-It is designed to help teams explore AI-powered quality workflows directly within their own environment.
+<div align="center">
 
-### What you can do with TuringOne Community
+[![UI Testing](https://img.shields.io/badge/UI-Testing-6f42c1?style=flat-square)](#)
+[![Playwright](https://img.shields.io/badge/Playwright-Ready-2EAD33?style=flat-square&logo=playwright)](#)
+[![BDD](https://img.shields.io/badge/BDD-Gherkin-23d96c?style=flat-square)](#)
+[![Docker](https://img.shields.io/badge/Docker-Self--Hosted-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/AI-Powered-black?style=flat-square)](#)
 
-- Import project documentation and requirements
-- Build project context with AI
-- Generate UI test scenarios
-- Organize test cases by functional features
-- Create test plans
-- Execute automated tests
-- Analyze execution results
-- Generate reports
-- Keep the Community environment self-hosted
+</div>
 
-TuringOne Community is especially focused on modern **web UI automation** and the progressive adoption of technologies such as:
+### ✨ Community capabilities
 
-**Playwright · BDD · Gherkin · Page Object Model · AI-assisted test generation**
+| 📥 Import | 🤖 Generate | 🗂️ Organize | ▶️ Execute | 📊 Report |
+|---|---|---|---|---|
+| Requirements & docs | UI test scenarios | Features & test plans | Automated tests | Execution insights |
 
-> TuringOne Community evolves continuously. Some capabilities may be introduced progressively as the Community Edition grows.
+<div align="center">
 
-### Explore TuringOne Community
+### 👉 [Explore TuringOne Community](https://github.com/aabouda/turingone-ui-community)
 
-👉 **[TuringOne UI Community](https://github.com/GetTuringOne/turingone-ui-community)**
+</div>
 
 ---
 
-## How TuringOne Works
+## 🧭 Quick Tour
 
-```text
-Requirements
-     ↓
-Documentation
-     ↓
-Project Context
-     ↓
-AI Analysis
-     ↓
-Test Generation
-     ↓
-Test Planning
-     ↓
-Execution
-     ↓
-Quality Insights
-```
+### 🚀 [TuringOne UI Community](https://github.com/aabouda/turingone-ui-community)
+Self-hosted Community Edition for AI-powered UI test generation, planning and execution.
 
-TuringOne uses contextual information from the project to improve the relevance of generated and analyzed quality assets.
+### 📖 Documentation
+Installation, configuration, architecture and product guides.
 
-Instead of treating tests as isolated scripts, TuringOne aims to understand the relationships between:
-
-```text
-Requirements
-      ↓
-BDD Scenarios
-      ↓
-Test Cases
-      ↓
-Automation
-      ↓
-Execution Results
-      ↓
-Quality Evidence
-```
+### 🧪 Examples
+BDD, Playwright and integration examples.
 
 ---
 
-## Our Vision
+## 🤝 Join the Community
 
-We believe the future of software quality is not simply about generating more tests.
-
-It is about understanding:
-
-> **What should be tested?**
-
-> **Why should it be tested?**
-
-> **What already covers it?**
-
-> **What changed?**
-
-> **What is impacted?**
-
-> **What is still missing?**
-
-> **Are we ready to release?**
-
-TuringOne is being built around this vision.
+⭐ **Star** the project &nbsp;&nbsp; 🐛 **Report issues** &nbsp;&nbsp; 💡 **Share ideas** &nbsp;&nbsp; 💬 **Give feedback** &nbsp;&nbsp; 🤝 **Contribute**
 
 ---
 
-## Built for Modern Quality Engineering
+## 🔐 Security
 
-TuringOne is designed around modern software quality practices and technologies, including:
-
-`AI Agents` · `Quality Engineering` · `Test Automation` · `BDD` · `Gherkin` · `Playwright` · `API Testing` · `UI Testing` · `E2E Testing` · `Regression Testing` · `Requirements Analysis` · `Traceability` · `Impact Analysis` · `Test Management`
-
----
-
-## TuringOne Ecosystem
-
-Our GitHub presence will progressively provide resources around the TuringOne ecosystem.
-
-### TuringOne Community
-
-Self-hosted Community Edition for exploring AI-powered software quality workflows.
-
-### Documentation
-
-Installation guides, architecture, configuration and product documentation.
-
-### Examples
-
-Practical examples for test generation, BDD, Playwright and integrations.
-
-### Integrations
-
-Resources and examples for connecting TuringOne with modern development and quality engineering ecosystems.
-
----
-
-## Community
-
-TuringOne Community is also a place to exchange ideas around the future of AI-powered Quality Engineering.
-
-You can participate by:
-
-- ⭐ Starring our repositories
-- 🐛 Reporting issues
-- 💡 Suggesting new capabilities
-- 💬 Sharing feedback
-- 🤝 Contributing improvements
-- 🧪 Sharing real-world use cases
-
-We want TuringOne Community to evolve together with the people using it.
-
----
-
-## Security
-
-Security issues should not be reported through public GitHub Issues.
-
-If you believe you have discovered a security vulnerability, please contact the TuringOne team privately.
-
----
-
-## Stay Connected
-
-### Website
-
-🌐 **https://www.getturingone.com/**
-
-### GitHub
-
-💻 **https://github.com/GetTuringOne**
+Please report security vulnerabilities privately rather than through public GitHub Issues.
 
 ---
 
 <div align="center">
 
-### TuringOne
+## TuringOne
 
 **AI-Powered Quality Engineering**
 
-Requirements → Tests → Coverage → Change Impact → Release Readiness
+🌐 [getturingone.com](https://www.getturingone.com/)  
+💻 [GitHub](https://github.com/GetTuringOne)
 
-🌐 [getturingone.com](https://www.getturingone.com/)
+**Requirements → Tests → Coverage → Impact → Release**
 
 </div>
